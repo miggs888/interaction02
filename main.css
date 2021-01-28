@@ -1,0 +1,44 @@
+canvas {
+    margin: auto;
+    display: block;
+    width: 800px;
+    height: 600px;
+    position: absolute;
+    top: 150px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0);
+}
+/* -------------------- BUTTON ------------- */ 
+.container_button {
+    display: block;
+    max-width: 150px;
+    margin: auto;
+}
+.title {
+  margin-left: 9rem;
+  margin-right: 9rem;
+  padding: 10px;
+  background-image: linear-gradient(to right, rgb(198, 0, 0, .7) , rgb(0, 0, 203, .7));
+  border-radius: 20px;
+}
+
+button {
+  font-family: new-spirit, serif;
+  font-weight: 400;
+  font-style: normal;
+  display: inline-block;
+  border-radius: 10px;
+  }
+
+  h1 {
+  font-family: new-spirit-condensed, serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 350%;
+  text-align: center;
+  color: white;
+  line-height: 48px;
+  }
